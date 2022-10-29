@@ -1,0 +1,18 @@
+[
+    {
+        "time": 1667049094.7808132,
+        "text": "\nEnvoi d\u2019une requ\u00eate 'ping' sur google.com [216.58.209.238] avec 32 octets de donn\u00e9es\u00a0:\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=417 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=20 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=9 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=9 ms TTL=115\n\nStatistiques Ping pour 216.58.209.238:\n    Paquets\u00a0: envoy\u00e9s = 4, re\u00e7us = 4, perdus = 0 (perte 0%),\nDur\u00e9e approximative des boucles en millisecondes :\n    Minimum = 9ms, Maximum = 417ms, Moyenne = 113ms\n"
+    },
+    {
+        "time": 1667049097.8521125,
+        "text": "\nEnvoi d\u2019une requ\u00eate 'ping' sur google.com [216.58.209.238] avec 32 octets de donn\u00e9es\u00a0:\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=9 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=10 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=245 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=20 ms TTL=115\n\nStatistiques Ping pour 216.58.209.238:\n    Paquets\u00a0: envoy\u00e9s = 4, re\u00e7us = 4, perdus = 0 (perte 0%),\nDur\u00e9e approximative des boucles en millisecondes :\n    Minimum = 9ms, Maximum = 245ms, Moyenne = 71ms\n"
+    },
+    {
+        "time": 1667049100.938016,
+        "text": "\nEnvoi d\u2019une requ\u00eate 'ping' sur google.com [216.58.209.238] avec 32 octets de donn\u00e9es\u00a0:\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=17 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=9 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=230 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=15 ms TTL=115\n\nStatistiques Ping pour 216.58.209.238:\n    Paquets\u00a0: envoy\u00e9s = 4, re\u00e7us = 4, perdus = 0 (perte 0%),\nDur\u00e9e approximative des boucles en millisecondes :\n    Minimum = 9ms, Maximum = 230ms, Moyenne = 67ms\n"
+    },
+    {
+        "time": 1667049104.018336,
+        "text": "\nEnvoi d\u2019une requ\u00eate 'ping' sur google.com [216.58.209.238] avec 32 octets de donn\u00e9es\u00a0:\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=15 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=10 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=12 ms TTL=115\nR\u00e9ponse de 216.58.209.238\u00a0: octets=32 temps=10 ms TTL=115\n\nStatistiques Ping pour 216.58.209.238:\n    Paquets\u00a0: envoy\u00e9s = 4, re\u00e7us = 4, perdus = 0 (perte 0%),\nDur\u00e9e approximative des boucles en millisecondes :\n    Minimum = 10ms, Maximum = 15ms, Moyenne = 11ms\n"
+    }
+]
