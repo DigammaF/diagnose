@@ -1,5 +1,5 @@
 
-from time import time
+from time import time, sleep
 from subprocess import run
 from json import dump
 
@@ -9,6 +9,7 @@ def main():
 
 	try:
 		while True:
+			sleep(0.5)
 			print("BEGIN FRAME")
 			now = time()
 			print(f"TIME: {now}")
